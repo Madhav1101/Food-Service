@@ -269,6 +269,7 @@ img{
 .home__img{
   width: 300px;
   justify-self: center;
+  order : -1;
 }
 
 /*========== BUTTONS ==========*/
@@ -545,6 +546,7 @@ img{
 
   .home__img{
     width: 500px;
+    order : 1;
   }
 
   .about__container,
